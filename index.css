@@ -1,0 +1,26 @@
+**{
+	box-sizing: border-box ;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial;
+	font-size: 16px;
+	background-color: lightblue;
+}
+
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+header {
+	background-color: #282c34;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+}
